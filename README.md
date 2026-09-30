@@ -1,7 +1,7 @@
 # Hi there, I'm Yogesh B N 👋
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Yogesh__B__N-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_B_N/)
-[![GitHub Streak](https://img.shields.io/badge/Streak_Stats-Active-2ea44f?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Yogeshbn2008-2ea44f?style=for-the-badge&logo=github)](https://github.com/Yogeshbn2008)
 
 Passionate developer actively sharpening problem-solving, data structures, and algorithms.
 
@@ -16,7 +16,7 @@ Passionate developer actively sharpening problem-solving, data structures, and a
     <img src="https://img.shields.io/badge/LeetCode-Yogesh__B__N-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   <a href="https://leetcode.com/u/Yogesh_B_N/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems_Solved-496-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Problems_Solved-502-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Problems Solved" />
   </a>
   <a href="https://leetcode.com/u/Yogesh_B_N/" target="_blank">
     <img src="https://img.shields.io/badge/Global_Rank-Top_1.5%25-blue?style=for-the-badge" alt="Global Rank" />
@@ -31,19 +31,28 @@ Passionate developer actively sharpening problem-solving, data structures, and a
 
 </div>
 
-- 🏆 **Global Standing**: Ranked **#216,630** globally on LeetCode (Top **~1.5%** worldwide)
-- 🎯 **Milestone**: **496 Problems Solved** (`298` Easy • `183` Medium • `15` Hard)
+- 🏆 **Global Standing**: Ranked **#212,748** globally on LeetCode (Top **~1.5%** worldwide)
+- 🎯 **Milestone Achieved**: **500+ Problems Solved** (`301` Easy • `186` Medium • `15` Hard)
 - ⚡ **Focus Areas**: Arrays, Dynamic Programming, Trees, Graphs & System Optimization
 - 🔄 **Consistency**: Continuous problem solving tracked live via the 52-week activity heatmap
 
 ---
 
-### 📈 Contribution Statistics
+### 📈 GitHub Contribution Statistics & Streaks
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your GitHub handle -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" alt="GitHub Contribution Streak" />
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/Yogeshbn2008">
+    <img src="https://streak-stats.demolab.com?user=Yogeshbn2008&theme=dark&hide_border=false" alt="GitHub Contribution Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Overview Stats Card -->
+  <a href="https://github.com/Yogeshbn2008">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yogeshbn2008&show_icons=true&theme=dark&hide_border=false" alt="Yogesh's GitHub Stats" />
   </a>
 </div>
 
