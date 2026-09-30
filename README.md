@@ -38,7 +38,7 @@ Passionate developer actively sharpening problem-solving, data structures, and a
 
 <div align="center">
   <a href="https://github.com/Yogeshbn2008">
-    <img src="https://streak-stats.demolab.com?user=Yogeshbn2008&theme=dark&hide_border=false" alt="GitHub Contribution Streak" />
+   <img src="https://streak-stats.demolab.com?user=Yogeshbn2008&theme=dark&hide_border=false&v=1" alt="GitHub Contribution Streak" />
   </a>
 </div>
 
