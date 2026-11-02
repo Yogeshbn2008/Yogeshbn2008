@@ -34,18 +34,25 @@ Passionate developer actively sharpening problem-solving, data structures, and a
 
 ---
 
-### 📈 GitHub Contribution Statistics & Streaks
+### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/Yogeshbn2008">
-   <img src="https://streak-stats.demolab.com?user=Yogeshbn2008&theme=dark&hide_border=false&v=1" alt="GitHub Contribution Streak" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yogeshbn2008&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshbn2008&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </div>
 
-<br/>
+### 🔥 Contribution Streak
 
 <div align="center">
-  <a href="https://github.com/Yogeshbn2008">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yogeshbn2008&show_icons=true&theme=dark&hide_border=false" alt="Yogesh's GitHub Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Yogeshbn2008&theme=dark&hide_border=true" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshbn2008/Yogeshbn2008/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshbn2008/Yogeshbn2008/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yogeshbn2008/Yogeshbn2008/output/github-snake.svg" />
+  </picture>
 </div>
