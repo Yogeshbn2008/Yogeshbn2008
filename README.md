@@ -37,8 +37,8 @@ Passionate developer actively sharpening problem-solving, data structures, and a
 ### 📊 GitHub Statistics
 
 <div align="center">
- <img height="180" src="https://your-project.vercel.app/api?username=Yogeshbn2008&show_icons=true&theme=dark&hide_border=true" />
-<img height="180" src="https://your-project.vercel.app/api/top-langs/?username=Yogeshbn2008&layout=compact&langs_count=6&theme=dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats-eta-wine.vercel.app/api?username=Yogeshbn2008&show_icons=true&theme=dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats-eta-wine.vercel.app/api/top-langs/?username=Yogeshbn2008&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </div>
 
 ### 🔥 Contribution Streak
