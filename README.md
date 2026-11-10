@@ -28,7 +28,7 @@ Passionate developer actively sharpening problem-solving, data structures, and a
 </div>
 
 - 🏆 **Global Standing**: Ranked **#212,748** globally on LeetCode (Top **~1.5%** worldwide)
-- 🎯 **Milestone Achieved**: **500+ Problems Solved** (`301` Easy • `186` Medium • `15` Hard)
+- 🎯 **Milestone Achieved**: **500+ Problems Solved** (`320` Easy • `228` Medium • `26` Hard)
 - ⚡ **Focus Areas**: Arrays, Dynamic Programming, Trees, Graphs & System Optimization
 - 🔄 **Consistency**: Continuous problem solving tracked live via the 52-week activity heatmap
 
