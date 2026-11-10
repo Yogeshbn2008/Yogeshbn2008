@@ -56,3 +56,6 @@ Passionate developer actively sharpening problem-solving, data structures, and a
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yogeshbn2008/Yogeshbn2008/output/github-snake.svg" />
   </picture>
 </div>
+
+### 🚀 Featured project: Digi Library
+Library management system for a 1,170-book hostel library, built with Next.js, TypeScript and MySQL. Admin dashboard, student accounts with approval, transactional issue/return, CSV import/export and an audit log. [Repository](https://github.com/Yogeshbn2008/digi-library) · [Live site](https://digi-library-one.vercel.app/) (student login required)
